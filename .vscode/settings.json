@@ -1,0 +1,12 @@
+{
+    "editor.fontFamily": "\"JetBrains Mono\",",
+    "editor.fontLigatures": true,
+    "editor.rulers": [80,120],
+    "editor.renderLineHighlight": "gutter",
+    "workbench.iconTheme": "material-icon-theme",
+    "terminal.integrated.fontSize": 16,
+    "editor.lineHeight": 24,
+    "editor.fontSize": 13,
+    "editor.letterSpacing": 1.2,
+    "markdown.preview.lineHeight": 1,
+}
